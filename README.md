@@ -1,5 +1,4 @@
 # Front-end_Study
-![image](https://github.com/seongyun4359/Front-end_Study/assets/144205093/8f4b8ab6-5c2a-492d-ad27-1ce6bb5fc94b)
 
 [스터디 Notion 링크](https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906)
 
