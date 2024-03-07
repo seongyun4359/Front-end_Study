@@ -19,7 +19,7 @@
    - 영화, 드라마 
 
   ######  3. mbti 
-    '''mermaid 
+   '''mermaid 
     pie
         title Pie Chart
         "E" : 273.6
