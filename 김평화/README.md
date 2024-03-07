@@ -25,3 +25,6 @@
 - **고양이 4마리 키움**
   
 ![image](https://github.com/seongyun4359/Front-end_Study/assets/162514248/46be6cc1-01ad-4360-b11b-6d0cdeb2f9a8)
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+
