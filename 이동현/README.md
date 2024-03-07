@@ -19,12 +19,7 @@
    - 영화, 드라마 
 
   ######  3. mbti 
-  <div class="mermaid">
-    pie
-        <title> 
-          Pie Chart
-        </title> 
-        "E" : 273.6
-        "I" : 86.4
-  </div>
-        
+
+pie title NETFLIX
+         "Time spent looking for movie" : 90
+         "Time spent watching it" : 10
