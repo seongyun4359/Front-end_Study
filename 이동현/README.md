@@ -19,10 +19,12 @@
    - 영화, 드라마 
 
   ######  3. mbti 
-   '''mermaid 
+  <div class="mermaid">
     pie
-        title Pie Chart
+        <title> 
+          Pie Chart
+        </title> 
         "E" : 273.6
         "I" : 86.4
-    '''
+  </div>
         
