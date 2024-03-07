@@ -1,4 +1,6 @@
 # 천성윤 README 자기소개
+![image](https://github.com/seongyun4359/Front-end_Study/assets/144205093/b8974429-e223-4ec8-82d4-7f6799f77c8f)
+
 2001년생 11월 12일  </br>
 
 학생○lㄹΓ는 죄로</br>
