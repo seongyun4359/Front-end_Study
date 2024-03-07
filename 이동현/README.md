@@ -19,7 +19,7 @@
    - 영화, 드라마 
 
   ######  3. mbti 
- <chart>
-   import Chart from '@toast-ui/chart';
-    const chart = Chart.pieChart({el, data, options});
-  <chart>
+     <chart>
+       import Chart from '@toast-ui/chart';
+      const chart = Chart.pieChart({el, data, options});
+      <chart>
