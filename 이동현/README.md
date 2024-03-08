@@ -27,5 +27,5 @@
 
   ######  4. TMI
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-d14836%3Fstyle%3Dflat-square%26logo">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      
