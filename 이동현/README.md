@@ -27,5 +27,5 @@
 
   ######  4. TMI
 
-<img src="https://img.shields.io/badge/Gmail-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-[![Gmail Badge](http://img.shields.io/badge/-Gamil-0072b1?style=flat&logo=linkedin&link=toseph0924@gmail.com)](toseph0924@gmail.com)   
+
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s](https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s))
