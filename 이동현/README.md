@@ -27,5 +27,4 @@
 
   ######  4. TMI
 
-
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=[https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s](https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s))
+ [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s)](https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s)
