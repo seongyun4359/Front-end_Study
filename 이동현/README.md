@@ -36,7 +36,7 @@
    - 웹 디자이너 목표로 하고 있음
    - 광운대 어쿠스틱 밴드 노을 지원(합격 여부 불명확)
    - 최근 제일 많이 듣는 노래 <br/>
-     ![image](https://image.bugsm.co.kr/album/images/500/203234/20323442.jpg)
+     ![image]([https://image.bugsm.co.kr/album/images/500/203234/20323442.jpg](https://www.youtube.com/watch?v=2-P-NIiLiQc))
 
 
 
