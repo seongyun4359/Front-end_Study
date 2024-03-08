@@ -26,5 +26,18 @@
    - 한 달 전까지 ISFP였으나 3월 7일자로 ENFP
 
   ######  4. TMI
+   - 키 175cm, 몸무게 75kg
+   - B형
+   - 36사단 군악대 2023.11.02 부 만기 전역
+   - 노래 장르는 가리지 않고 다 들음
+   - 발라드, R&B 많이 부름
+   - 최근 좋아하는 그룹사운드는 LUCY, 성시경
+   - 2살 터울 여동생 有
+   - 웹 디자이너 목표로 하고 있음
+   - 광운대 어쿠스틱 밴드 노을 지원(합격 여부 불명확)
+   - 
 
+
+
+🙇‍♂️ About My Study 
  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s)](https://www.notion.so/Front-end-Study-MainPage-639b3309504f4ee8ad21297c53ecd906?p=2b97ff9d8e284deea95f99fe4885d6cb&pm=s)
