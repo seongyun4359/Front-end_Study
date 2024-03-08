@@ -2,7 +2,7 @@
   Hi welcome, I'm Dong Hyeon Lee ✨🎸🎤
 <h1>
   
---
+
   
 #### 1.Basic inform.
 - 2002.04.10 출생
@@ -23,7 +23,7 @@
    - 자취 후 요리 추가
 
   ######  3. MBTI 
-   한 달 전까지 ISFP였으나 3월 7일자로 ENFP
+   - 한 달 전까지 ISFP였으나 3월 7일자로 ENFP
 
   ######  4. TMI
    
