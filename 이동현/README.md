@@ -27,5 +27,5 @@
 
   ######  4. TMI
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-     
+<img src="https://img.shields.io/badge/Gmail-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](yunabae482@gmail.com)     
