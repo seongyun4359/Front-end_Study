@@ -2,14 +2,12 @@
   Hi welcome, I'm Dong Hyeon Lee ✨🎸🎤
 <h1>
   
----
+--
   
 #### 1.Basic inform.
 - 2002.04.10 출생
 - 本家 경상북도 구미 
 - 010-7330-1067
-
----
 
 #### 2.Additional inform.
   ######  1. Academic background
