@@ -26,6 +26,6 @@
    - 한 달 전까지 ISFP였으나 3월 7일자로 ENFP
 
   ######  4. TMI
-   
 
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-d14836%3Fstyle%3Dflat-square%26logo">
+     
