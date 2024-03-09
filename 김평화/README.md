@@ -23,6 +23,5 @@
 - **좌우명 :** 알차고 보람차게 살기, 기억에 남는 삶을 살기
 - **취미 :** 음악듣기, 따릉이 타기, 한강가기, 영화보기
 - **고양이 4마리 키움**
-  
-![image](https://github.com/seongyun4359/Front-end_Study/assets/162514248/46be6cc1-01ad-4360-b11b-6d0cdeb2f9a8)
 
+<img src="https://github.com/seongyun4359/Front-end_Study/assets/162514248/46be6cc1-01ad-4360-b11b-6d0cdeb2f9a8" width="640" height="480"/>
