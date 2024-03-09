@@ -50,4 +50,5 @@
   * CSS, HTML
   * Python
   * JavaScript
-    Goal : make my own homepage
+
+     Goal : make my own homepage
