@@ -1,0 +1,33 @@
+h1{
+    color : rgb(106, 128, 255);
+    text-align: center;
+    letter-spacing: -5;
+    -webkit-text-stroke: 1px #000;
+    font-family: "Charmonman", cursive;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+
+header{
+    background-color:papayawhip;
+    height : 60px;
+    border: 1px solid black;
+}
+
+header:hover{
+    background-color:palevioletred;
+}
+
+nav{
+    margin-left: 1200px;
+    padding-top: 35px;
+}
+a{
+    margin-right:10px;
+}
+
+div{
+    display: inline-block;
+    
+}
