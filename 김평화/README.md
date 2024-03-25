@@ -25,3 +25,6 @@
 - **고양이 4마리 키움**
 
 <img src="https://github.com/seongyun4359/Front-end_Study/assets/162514248/46be6cc1-01ad-4360-b11b-6d0cdeb2f9a8" width="640" height="480"/>
+![Uploading image.png…]()
+
+![Uploading KakaoTalk_20240325_141604882_03.jpg…]()
